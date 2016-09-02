@@ -1,0 +1,49 @@
+﻿/*
+* Responsive Sheet
+* 
+* @package Forzr
+* @subpackage CSS
+*
+/* #PC
+================================================== */
+
+    /* Note: Design for a width of 980px and wider*/
+	
+	.type-page,
+	.n_frames .blog-head-content,
+	#slider-child .blog-head-content,
+	.f-c-d,
+	.featured_post_wraapper,
+	.two-thirds-cloumn,
+	.archive-title,
+	.page-title-wrapper,
+	.forums-container,
+	#bbpress-forums,
+	#comments-list ol,
+	.whos-online,
+	.st_posts_list_home,
+	.page-entry-header *,
+	.fr-top-menu,
+	.header-wrap,
+	.topics-list-cont,
+	#attachment_content,
+	.entry-content-temp-page,
+	#bbp-login .entry-content > p,
+	.post-cont-sing,
+	#products-temp-wrapper,
+	.woocommerce .breadcrumb,
+	.type-product,
+	.content-area-seller-listing,
+	.dokkan_page_title_content span,
+	.single-product-wrapper,
+	.post_entry_header *,
+	.profile-info,
+	.store-page-wrap,
+	.rsb_wrapper,
+	h2.rest-review-title
+	{
+	width: 95%;
+	}
+	.wel_msg_text {
+	width: 90%;	
+	}

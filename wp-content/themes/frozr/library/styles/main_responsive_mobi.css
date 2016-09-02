@@ -1,0 +1,40 @@
+﻿/*
+* Responsive Sheet
+* 
+* @package Forzr
+* @subpackage CSS
+*
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 300px */
+
+    @media (max-width: 650px)  {
+	/*Featured Posts*/
+	.view {
+	  width: 250px;
+	}
+}
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 300px */
+
+    @media (max-width: 400px)  {
+	/*Featured Posts*/
+	#featured_post {
+		width: 90%;
+	}
+	.view {
+	  width: 100%;
+	}
+	/*single post*/
+	dl {
+		display: inherit;
+	}
+
+}

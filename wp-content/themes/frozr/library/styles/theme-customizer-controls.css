@@ -1,0 +1,16 @@
+/*Theme customizer controls CSS*/
+.advance_options,.checkbox_hide,.bg_hide,.select_hide,.typo_hide{display:none!important}
+.cust_bg_opt_btn,.cust_more_opt_btn{padding:5px 0;display:block;cursor:pointer}
+.bg_carry{position:relative}
+.cust_bg_opt_btn{position:absolute;right:0}
+#customize-control-fro_team_count, #customize-control-fro_tm_m_youtube_1, #customize-control-fro_tm_m_youtube_2, #customize-control-fro_tm_m_youtube_3, #customize-control-fro_top_user_menu_link_icon_color_4,#customize-control-fro_top_user_menu_link_icon_color_3,#customize-control-fro_top_user_menu_link_icon_color_2,#customize-control-fro_main_padding,#customize-control-fro_main_border_color,#customize-control-fro_top_user_menu_links_select,#customize-control-fro_top_user_menu_link_icon_color_1{margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid rgba(0,0,0,0.2)}
+.customize-control-typography{margin-bottom:20px}
+.fro_radio_img > input{display:none}
+.fro_radio_img{background-color:#f0f0f0;display:inline-block;padding:3px;width:29%}
+.fro_radio_img.fro-radio-img-selected{background-color:#f4f4f4;box-shadow:0 0 0 1px #ccc}
+.customize-control-typography label{float:left}
+.customize-control-typography select{height:24px}
+span.cust_typo_opt_btn{display:block;width:100%;clear:both;cursor:pointer}
+#customize-control-fro_social_link_one_icon .current,#customize-control-fro_social_link_two_icon .current,#customize-control-fro_social_link_three_icon .current,#customize-control-fro_social_link_four_icon .current{width:50px}
+.frozr_editor_control{color:#333!important}
+.customize-control.customize-control-slider-select {margin:20px 0;}

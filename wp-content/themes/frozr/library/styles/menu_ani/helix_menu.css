@@ -1,0 +1,28 @@
+/*
+* Menu Animations
+* 
+* @package Forzr
+* @subpackage CSS
+*
+*/
+.fr-menu ul li {
+  -webkit-transform: rotateY(90deg);
+     -moz-transform: rotateY(90deg);
+      -ms-transform: rotateY(90deg);
+       -o-transform: rotateY(90deg);
+          transform: rotateY(90deg);
+}
+.fr-menu li:hover > ul > li , .fr-menu li:focus > ul > li{
+  -webkit-transform: rotateY(0deg);
+     -moz-transform: rotateY(0deg);
+      -ms-transform: rotateY(0deg);
+       -o-transform: rotateY(0deg);
+          transform: rotateY(0deg);
+}
+.fr-menu > li {
+  -webkit-perspective: 400px;
+     -moz-perspective: 400px;
+      -ms-perspective: 400px;
+       -o-perspective: 400px;
+          perspective: 400px;
+}

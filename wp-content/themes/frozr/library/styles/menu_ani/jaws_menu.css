@@ -1,0 +1,28 @@
+/*
+* Menu Animations
+* 
+* @package Forzr
+* @subpackage CSS
+*
+*/
+.fr-menu li{
+  -webkit-transform-origin: 50% -50px;
+     -moz-transform-origin: 50% -50px;
+      -ms-transform-origin: 50% -50px;
+       -o-transform-origin: 50% -50px;
+          transform-origin: 50% -50px;
+}
+.fr-menu ul li:nth-child(odd) {
+  -webkit-transform: rotate(90deg);
+     -moz-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+       -o-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+.fr-menu ul li:nth-child(even) {
+  -webkit-transform: rotate(-90deg);
+     -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+       -o-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+}

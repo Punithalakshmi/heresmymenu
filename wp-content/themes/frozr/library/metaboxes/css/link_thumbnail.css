@@ -1,0 +1,13 @@
+.pl_desc {
+    display: block;
+    font-style: italic;
+    padding: 5px 0;
+	margin: 0 0 10px;
+}
+#post_link_thumbnail label {
+    display: block;
+}
+
+#post_link_thumbnail input {
+    width: 99%;
+}

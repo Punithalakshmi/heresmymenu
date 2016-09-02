@@ -1,0 +1,27 @@
+/*
+* Menu Animations
+* 
+* @package Forzr
+* @subpackage CSS
+*
+*/
+.fr-menu ul li{
+  -webkit-transform: scale(.2);
+     -moz-transform: scale(.2);
+      -ms-transform: translateX(-60%);
+       -o-transform: translateX(-60%);
+          transform: translateX(-60%);
+
+  -webkit-transition-timing-function: cubic-bezier(0, .35, .5, 1.5);
+     -moz-transition-timing-function: cubic-bezier(0, .35, .5, 1.5);
+      -ms-transition-timing-function: cubic-bezier(0, .35, .5, 1.5);
+       -o-transition-timing-function: cubic-bezier(0, .35, .5, 1.5);
+          transition-timing-function: cubic-bezier(0, .35, .5, 1.5);
+}
+.fr-menu li:hover > ul > li , .fr-menu li:focus > ul > li{
+  -webkit-transform: scale(.0);
+     -moz-transform: scale(.0);
+      -ms-transform: translateX(0);
+       -o-transform: translateX(0);
+          transform: translateX(0);
+}

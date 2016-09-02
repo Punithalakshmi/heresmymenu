@@ -1,0 +1,19 @@
+﻿.note-ie {
+    background-color: yellow;
+    border: 2px solid scrollbar;
+    padding: 60px 50px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    width: 500px;
+    margin-top: -150px;
+  	margin-left: -300px;
+    filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=10, OffY=10, Color='#33000000'); 
+}
+.note-ie p {
+	font-size:21px;
+	color:#444;
+	font-family:pt sans;
+	line-height:30px;
+	font-weight:bold;
+}

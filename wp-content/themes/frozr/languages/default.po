@@ -1,0 +1,1581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: frozr\n"
+"POT-Creation-Date: 2016-07-08 21:06+0300\n"
+"PO-Revision-Date: 2016-07-08 21:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: bbpress\n"
+"X-Poedit-SearchPath-1: extras\n"
+"X-Poedit-SearchPath-2: woocommerce\n"
+"X-Poedit-SearchPath-3: 404.php\n"
+"X-Poedit-SearchPath-4: archive.php\n"
+"X-Poedit-SearchPath-5: archive-forum.php\n"
+"X-Poedit-SearchPath-6: attachment.php\n"
+"X-Poedit-SearchPath-7: author.php\n"
+"X-Poedit-SearchPath-8: category.php\n"
+"X-Poedit-SearchPath-9: comments.php\n"
+"X-Poedit-SearchPath-10: favicon.ico\n"
+"X-Poedit-SearchPath-11: footer.php\n"
+"X-Poedit-SearchPath-12: functions.php\n"
+"X-Poedit-SearchPath-13: header.php\n"
+"X-Poedit-SearchPath-14: index.php\n"
+"X-Poedit-SearchPath-15: Mobile_Detect.php\n"
+"X-Poedit-SearchPath-16: page.php\n"
+"X-Poedit-SearchPath-17: product-searchform.php\n"
+"X-Poedit-SearchPath-18: search.php\n"
+"X-Poedit-SearchPath-19: searchform.php\n"
+"X-Poedit-SearchPath-20: sidebar.php\n"
+"X-Poedit-SearchPath-21: sidebar-archive.php\n"
+"X-Poedit-SearchPath-22: sidebar-blog.php\n"
+"X-Poedit-SearchPath-23: sidebar-forum.php\n"
+"X-Poedit-SearchPath-24: sidebar-lazy-inset.php\n"
+"X-Poedit-SearchPath-25: sidebar-page.php\n"
+"X-Poedit-SearchPath-26: sidebar-page-inset.php\n"
+"X-Poedit-SearchPath-27: sidebar-shop.php\n"
+"X-Poedit-SearchPath-28: sidebar-shop-inset.php\n"
+"X-Poedit-SearchPath-29: sidebar-single.php\n"
+"X-Poedit-SearchPath-30: sidebar-single-insert.php\n"
+"X-Poedit-SearchPath-31: sidebar-single-top.php\n"
+"X-Poedit-SearchPath-32: single.php\n"
+"X-Poedit-SearchPath-33: tag.php\n"
+"X-Poedit-SearchPath-34: template-blog.php\n"
+"X-Poedit-SearchPath-35: template-page-archives.php\n"
+"X-Poedit-SearchPath-36: template-page-dilog.php\n"
+"X-Poedit-SearchPath-37: template-page-fullwidth.php\n"
+"X-Poedit-SearchPath-38: theme-update-checker.php\n"
+"X-Poedit-SearchPath-39: library/extensions\n"
+"X-Poedit-SearchPath-40: library/metaboxes\n"
+"X-Poedit-SearchPath-41: library/templates\n"
+"X-Poedit-SearchPath-42: library/widgets/whos-online\n"
+
+#: attachment.php:48 library/extensions/content-extensions.php:638 page.php:91
+msgid "Pages:"
+msgstr ""
+
+#: author.php:60
+msgid "Email "
+msgstr ""
+
+#: bbpress/content-single-user.php:24
+msgid "Subscribeds"
+msgstr ""
+
+#: bbpress/content-single-user.php:27 bbpress/content-single-user.php:39
+msgid "Favorites "
+msgstr ""
+
+#: bbpress/content-single-user.php:30 bbpress/content-single-user.php:42
+msgid "Topics Created"
+msgstr ""
+
+#: bbpress/content-single-user.php:33 bbpress/content-single-user.php:45
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/form-topic.php:58
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:60
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:60
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:70
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:78
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-topic.php:92
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:103
+msgid "Topic:"
+msgstr ""
+
+#: bbpress/form-topic.php:114
+msgid "Use BB codes"
+msgstr ""
+
+#: bbpress/form-topic.php:117
+msgid "Bold"
+msgstr ""
+
+#: bbpress/form-topic.php:118
+msgid "Italic"
+msgstr ""
+
+#: bbpress/form-topic.php:119
+msgid "Underline"
+msgstr ""
+
+#: bbpress/form-topic.php:120
+msgid "Strikethrough"
+msgstr ""
+
+#: bbpress/form-topic.php:121
+msgid "Align: Center"
+msgstr ""
+
+#: bbpress/form-topic.php:122
+msgid "Align: Right"
+msgstr ""
+
+#: bbpress/form-topic.php:123
+msgid "Align: Left"
+msgstr ""
+
+#: bbpress/form-topic.php:124
+msgid "Align: Justify"
+msgstr ""
+
+#: bbpress/form-topic.php:125
+msgid "Horizontal Line"
+msgstr ""
+
+#: bbpress/form-topic.php:126
+msgid "Subscript"
+msgstr ""
+
+#: bbpress/form-topic.php:127
+msgid "Superscript"
+msgstr ""
+
+#: bbpress/form-topic.php:128
+msgid "Reverse"
+msgstr ""
+
+#: bbpress/form-topic.php:129
+msgid "Font Size"
+msgstr ""
+
+#: bbpress/form-topic.php:130
+msgid "Font Color"
+msgstr ""
+
+#: bbpress/form-topic.php:131
+msgid "Preformatted"
+msgstr ""
+
+#: bbpress/form-topic.php:132
+msgid "Blockquote"
+msgstr ""
+
+#: bbpress/form-topic.php:133
+msgid "Area"
+msgstr ""
+
+#: bbpress/form-topic.php:134
+msgid "Block"
+msgstr ""
+
+#: bbpress/form-topic.php:135
+msgid "List: Ordered"
+msgstr ""
+
+#: bbpress/form-topic.php:136
+msgid "List: Unordered"
+msgstr ""
+
+#: bbpress/form-topic.php:137
+msgid "List: Item"
+msgstr ""
+
+#: bbpress/form-topic.php:138
+msgid "Quote"
+msgstr ""
+
+#: bbpress/form-topic.php:141
+msgid "List of Advanced BBCodes"
+msgstr ""
+
+#: bbpress/form-topic.php:142
+msgid "URL"
+msgstr ""
+
+#: bbpress/form-topic.php:143
+msgid "Image"
+msgstr ""
+
+#: bbpress/form-topic.php:144
+msgid "YouTube Video"
+msgstr ""
+
+#: bbpress/form-topic.php:145
+msgid "Vimeo Video"
+msgstr ""
+
+#: bbpress/form-topic.php:146
+msgid "Google Search URL"
+msgstr ""
+
+#: bbpress/form-topic.php:147
+msgid "Note"
+msgstr ""
+
+#: bbpress/form-topic.php:153
+msgid "You may use these"
+msgstr ""
+
+#: bbpress/form-topic.php:153
+msgid "tags and attributes:"
+msgstr ""
+
+#: bbpress/form-topic.php:162
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:173
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:187
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:206
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-topic.php:210
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-topic.php:224
+msgid "Revision"
+msgstr ""
+
+#: bbpress/form-topic.php:227
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-topic.php:231
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-topic.php:246
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-topic.php:269
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-topic.php:278
+msgid "You cannot create new topics at this time."
+msgstr ""
+
+#: bbpress/form-topic.php:278
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/loop-forums.php:20 library/templates/forum-page-template.php:133
+msgid "Forums"
+msgstr ""
+
+#: bbpress/loop-forums.php:29 bbpress/loop-topics.php:22
+#: bbpress/user-details.php:25 library/templates/forum-page-template.php:139
+msgid "Topics"
+msgstr ""
+
+#: bbpress/loop-forums.php:31 bbpress/loop-topics.php:31
+#: bbpress/user-details.php:32 library/extensions/hometopics-extentions.php:203
+#: library/templates/forum-page-template.php:145
+msgid "Replies"
+msgstr ""
+
+#: bbpress/loop-forums.php:31 bbpress/loop-topics.php:31
+#: library/extensions/hometopics-extentions.php:203
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:33 bbpress/loop-topics.php:33
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-single-forum.php:42
+msgid "Topics: "
+msgstr ""
+
+#: bbpress/loop-single-forum.php:44 bbpress/loop-single-topic.php:58
+msgid "Replies: "
+msgstr ""
+
+#: bbpress/loop-single-forum.php:44 bbpress/loop-single-topic.php:58
+msgid "Posts: "
+msgstr ""
+
+#: bbpress/loop-single-forum.php:48 bbpress/loop-single-topic.php:62
+msgid "Freshness: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:31
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:39
+msgid "in:"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:56
+msgid "Voices: "
+msgstr ""
+
+#: bbpress/loop-topics.php:29 library/extensions/hometopics-extentions.php:203
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:20
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: bbpress/user-details.php:39
+msgid "Role"
+msgstr ""
+
+#: bbpress/user-details.php:46
+msgid "User ID"
+msgstr ""
+
+#: bbpress/user-details.php:54
+#, php-format
+msgid "Edit Profile of User %s"
+msgstr ""
+
+#: bbpress/user-favorites.php:34
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:34
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:32
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:32
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:33
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:33
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:34
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:34
+msgid "This user has not created any topics."
+msgstr ""
+
+#: comments.php:24
+msgid "Please do not load this page directly."
+msgstr ""
+
+#: comments.php:30
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:108
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:108
+#, php-format
+msgctxt "%1$ and %2$s are <span> tags"
+msgid "%1$sOne%2$s Trackback"
+msgstr ""
+
+#: functions.php:289
+msgid "The Top Menu"
+msgstr ""
+
+#: functions.php:290
+msgid "The user menu in the Top Menu"
+msgstr ""
+
+#: functions.php:291
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:293
+msgid "Forum Menu"
+msgstr ""
+
+#: functions.php:304
+msgid ""
+"Please enter your Frozr key using WordPress Customizer to get important "
+"updates for Frozr. If you don't have one, "
+msgstr ""
+
+#: functions.php:304
+msgid "Request"
+msgstr ""
+
+#: functions.php:304
+msgid " your key now!"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:120
+#, php-format
+msgctxt "One Comment, where %$1s and %$2s are \"span\" tags"
+msgid "%1$sOne%2$s Comment"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:131
+#: library/extensions/content-extensions.php:973
+msgid "Comments"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:156
+#: library/extensions/comments-extensions.php:203
+msgid "Post Comment"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:168
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:180
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:191
+msgid "Cancel reply"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:215
+msgctxt "noun"
+msgid "Name"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:227
+msgctxt "noun"
+msgid "Email"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:239
+msgctxt "noun"
+msgid "Website"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:275
+msgctxt "%$1s and %$2s are \"em\" tags for emphasis on never"
+msgid "Your email is <em>never</em> published nor shared."
+msgstr ""
+
+#: library/extensions/comments-extensions.php:275
+#, php-format
+msgctxt "%$1s and %$2s are \"span\" tags"
+msgid "Required fields are marked %1$s*%2$s"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:277
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: library/extensions/comments-extensions.php:279
+#, php-format
+msgid "Logged in as %s"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:279
+msgid "Log out?"
+msgstr ""
+
+#: library/extensions/comments-extensions.php:281
+#, php-format
+msgctxt "%$1s and %$2s are \"abbr\" tags"
+msgid "You may use these %1$sHTML%2$s tags and attributes"
+msgstr ""
+
+#: library/extensions/content-extensions.php:323
+msgid "Author Archives:"
+msgstr ""
+
+#: library/extensions/content-extensions.php:340
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:349
+msgid "Search Results for:"
+msgstr ""
+
+#: library/extensions/content-extensions.php:375
+msgid "Archives:"
+msgstr ""
+
+#: library/extensions/content-extensions.php:382
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:388
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:394
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:661 page.php:110
+#: template-page-fullwidth.php:92
+msgid "Quick Links"
+msgstr ""
+
+#: library/extensions/content-extensions.php:661 page.php:110
+#: template-page-fullwidth.php:92
+msgid " Contents"
+msgstr ""
+
+#: library/extensions/content-extensions.php:907
+msgid "Category"
+msgstr ""
+
+#: library/extensions/content-extensions.php:913
+msgid "Bookmark"
+msgstr ""
+
+#: library/extensions/content-extensions.php:915
+#, php-format
+msgctxt "1s and 2s are the a href link wrappers, do not reverse them"
+msgid "Bookmark the %1$spermalink%2$s."
+msgstr ""
+
+#: library/extensions/content-extensions.php:937
+msgid "Tags"
+msgstr ""
+
+#: library/extensions/content-extensions.php:949
+msgid "Author"
+msgstr ""
+
+#: library/extensions/content-extensions.php:954
+msgid "Date"
+msgstr ""
+
+#: library/extensions/content-extensions.php:961
+msgid "Archive"
+msgstr ""
+
+#: library/extensions/content-extensions.php:963
+#, php-format
+msgid "Browse the %s archive."
+msgstr ""
+
+#: library/extensions/content-extensions.php:1008
+#: library/extensions/content-extensions.php:1515
+#: library/extensions/discussion-extensions.php:37
+#: library/extensions/discussion.php:87
+#: library/extensions/featuredposts-extentions.php:335
+#: library/extensions/featuredposts-extentions.php:458
+#: library/extensions/featuredposts-extentions.php:794
+#: library/extensions/postformats-extensions.php:142
+#: library/extensions/postformats-extensions.php:177
+#: library/extensions/postformats-extensions.php:439
+#: library/extensions/sliderpostformats-extensions.php:144
+#: library/extensions/sliderpostformats-extensions.php:188
+#: library/extensions/sliderpostformats-extensions.php:475
+#: library/extensions/st-home-posts-extentions.php:272
+msgid "Edit"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1059
+msgctxt "Default title for untitled posts"
+msgid "(Untitled)"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1073
+#: library/extensions/content-extensions.php:1980
+msgid "Nothing Found!"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1135
+msgid "By"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1191
+#: library/extensions/content-extensions.php:1195
+msgid "Published:"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1340
+msgid "Latest Posts"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1351
+msgid "Monthly Archive"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1362
+msgid "Daily Archives"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1407
+msgid "Try search the website!"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1429
+#, php-format
+msgid "Read More %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1629
+#, php-format
+msgid "This entry was posted in %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1640
+#, php-format
+msgid "Also posted in %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1644
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1680
+msgid "This entry is tagged"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1685
+msgid "Also tagged"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1687
+msgid "Tagged"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1721
+#: library/extensions/content-extensions.php:1728
+#, php-format
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: library/extensions/content-extensions.php:1735
+msgid "Leave a comment"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1738
+msgid "Comments closed"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1762
+#, php-format
+msgctxt ""
+"1s and 2s are the a href link wrappers, do not reverse them. 3s is trackback "
+"url."
+msgid "%1$sPost a comment%2$s or leave a trackback: %3$s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1768
+#: library/extensions/content-extensions.php:1775
+msgid "Trackback URL"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1771
+#, php-format
+msgctxt "%s is trackback url, wrapped in link tags"
+msgid "Comments are closed, but you can leave a trackback: %s"
+msgstr ""
+
+#: library/extensions/content-extensions.php:1778
+#, php-format
+msgctxt "1s and 2s are the a href link wrappers, do not reverse them"
+msgid "Trackbacks are closed, but you can %1$spost a comment%2$s."
+msgstr ""
+
+#: library/extensions/content-extensions.php:1780
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: library/extensions/content-extensions.php:1977
+msgid "No Results"
+msgstr ""
+
+#: library/extensions/content-extensions.php:2077
+msgid "Share this?"
+msgstr ""
+
+#: library/extensions/content-extensions.php:2081
+msgid "Share"
+msgstr ""
+
+#: library/extensions/discussion-extensions.php:26
+msgid "Comment meta"
+msgstr ""
+
+#: library/extensions/discussion-extensions.php:27
+#, php-format
+msgctxt "Posted {$date} at {$time}"
+msgid "Posted %s at %s"
+msgstr ""
+
+#: library/extensions/discussion-extensions.php:31
+msgid "Permalink to this comment"
+msgstr ""
+
+#: library/extensions/discussion-extensions.php:31
+msgid "Permalink"
+msgstr ""
+
+#: library/extensions/discussion-extensions.php:36
+msgid "Edit comment"
+msgstr ""
+
+#: library/extensions/discussion.php:35
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: library/extensions/discussion.php:47
+#, php-format
+msgid "%1$s said:"
+msgstr ""
+
+#: library/extensions/discussion.php:56
+msgid "Reply"
+msgstr ""
+
+#: library/extensions/discussion.php:57
+msgid "Log in to reply."
+msgstr ""
+
+#: library/extensions/discussion.php:83
+#, php-format
+msgctxt "By {$authorlink} on {$date} at {$time}"
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: library/extensions/discussion.php:93
+msgid "Your trackback is awaiting moderation"
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:311
+#: library/extensions/featuredposts-extentions.php:434
+#: library/extensions/postformats-extensions.php:138
+#: library/extensions/postformats-extensions.php:173
+#: library/extensions/sliderpostformats-extensions.php:139
+#: library/extensions/sliderpostformats-extensions.php:171
+#: library/extensions/sliderpostformats-extensions.php:472
+msgid "by "
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:332
+#: library/extensions/featuredposts-extentions.php:455
+#: library/extensions/postformats-extensions.php:137
+#: library/extensions/postformats-extensions.php:172
+msgid " at "
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:334
+#: library/extensions/featuredposts-extentions.php:457
+msgid ", by "
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:564
+#: library/extensions/postformats-extensions.php:243
+#: library/extensions/sliderpostformats-extensions.php:260
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:726
+msgid "Open"
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:862
+#: library/extensions/sliderpostformats-extensions.php:551
+msgid "Sale!"
+msgstr ""
+
+#: library/extensions/featuredposts-extentions.php:868
+msgid "View product details"
+msgstr ""
+
+#: library/extensions/header-extensions.php:256
+msgid "Posts RSS feed"
+msgstr ""
+
+#: library/extensions/header-extensions.php:280
+msgid "Comments RSS feed"
+msgstr ""
+
+#: library/extensions/header-extensions.php:641
+#: woocommerce/cart/mini-cart.php:61
+msgid "View Cart"
+msgstr ""
+
+#: library/extensions/header-extensions.php:646
+msgid "Top Menu"
+msgstr ""
+
+#: library/extensions/header-extensions.php:694
+msgid "Username or email address"
+msgstr ""
+
+#: library/extensions/header-extensions.php:698
+#: library/extensions/header-extensions.php:746
+msgid "Password"
+msgstr ""
+
+#: library/extensions/header-extensions.php:706
+#: library/extensions/header-extensions.php:872
+msgid "Login"
+msgstr ""
+
+#: library/extensions/header-extensions.php:708
+msgid "Remember me"
+msgstr ""
+
+#: library/extensions/header-extensions.php:712
+msgid "Lost your password?"
+msgstr ""
+
+#: library/extensions/header-extensions.php:732
+msgid "Username"
+msgstr ""
+
+#: library/extensions/header-extensions.php:739
+msgid "Email address"
+msgstr ""
+
+#: library/extensions/header-extensions.php:753
+msgid "Anti-spam"
+msgstr ""
+
+#: library/extensions/header-extensions.php:759
+#: library/extensions/header-extensions.php:874
+msgid "Register"
+msgstr ""
+
+#: library/extensions/header-extensions.php:863
+#: library/extensions/header-extensions.php:896
+msgid "My Account"
+msgstr ""
+
+#: library/extensions/header-extensions.php:882
+msgid "Logout!"
+msgstr ""
+
+#: library/extensions/header-extensions.php:894
+msgid "WooCommerce"
+msgstr ""
+
+#: library/extensions/header-extensions.php:897
+msgid "Edit Account"
+msgstr ""
+
+#: library/extensions/header-extensions.php:898
+msgid "Edit Billing Address"
+msgstr ""
+
+#: library/extensions/header-extensions.php:899
+msgid "Edit Shipping Address"
+msgstr ""
+
+#: library/extensions/header-extensions.php:1114
+msgid "Skip to content"
+msgstr ""
+
+#: library/extensions/header-extensions.php:1120
+#: library/extensions/header-extensions.php:1187
+msgid "Menu"
+msgstr ""
+
+#: library/extensions/helpers.php:51 library/extensions/helpers.php:164
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: library/extensions/helpers.php:128
+#: library/extensions/postformats-extensions.php:204
+msgid "Read more"
+msgstr ""
+
+#: library/extensions/helpers.php:141
+msgid "Read More"
+msgstr ""
+
+#: library/extensions/hometopics-extentions.php:72
+msgid "Latest topics in "
+msgstr ""
+
+#: library/extensions/hometopics-extentions.php:75
+#: library/extensions/hometopics-extentions.php:82
+#: library/extensions/hometopics-extentions.php:211
+msgid "More Topics in "
+msgstr ""
+
+#: library/extensions/hometopics-extentions.php:75
+#: library/extensions/hometopics-extentions.php:82
+#: library/extensions/hometopics-extentions.php:211
+msgid "More Topics "
+msgstr ""
+
+#: library/extensions/hometopics-extentions.php:140
+#: library/extensions/hometopics-extentions.php:147
+msgid "More Topics"
+msgstr ""
+
+#: library/extensions/hometopics-extentions.php:204
+msgid "last post by"
+msgstr ""
+
+#: library/extensions/news-ticker-extentions.php:37
+#, php-format
+msgid "Read more about %s"
+msgstr ""
+
+#: library/extensions/our-team-extentions.php:115
+#: library/extensions/our-team-extentions.php:141
+msgid "view Biography"
+msgstr ""
+
+#: library/extensions/our-team-extentions.php:185
+msgid "Close"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:87
+#: library/extensions/post-types-extentions.php:234
+msgid "No ratings yet!"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:94
+#: library/extensions/post-types-extentions.php:204
+msgid "Make Order"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:155
+msgid "Demo"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:163
+msgid "Worldwide"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:173
+msgid "Will sell to your country."
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:175
+msgid "Will NOT sell to your country."
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:230
+msgid "Product Rating:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:238
+msgid "Recipe:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:240
+msgid "Dish Type:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:242
+msgid "Spicy:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:244
+msgid "Fat:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:244
+msgid " Grams"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:250
+#: library/extensions/post-types-extentions.php:278
+msgid "Item Number:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:250
+#: library/extensions/post-types-extentions.php:278
+msgid "N/A"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:252
+msgid "Tag:<span>"
+msgid_plural "Tags:<span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: library/extensions/post-types-extentions.php:254
+msgid "Category:<span>"
+msgid_plural "Categories:<span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: library/extensions/post-types-extentions.php:256
+msgid "Selling To:"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:301
+msgid "Desc."
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:302
+msgid "Reviews"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:312
+msgid "Additional Information"
+msgstr ""
+
+#: library/extensions/post-types-extentions.php:363
+#: library/extensions/st-home-posts-extentions.php:250
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: library/extensions/postformats-extensions.php:139
+#: library/extensions/postformats-extensions.php:174
+#: library/extensions/sliderpostformats-extensions.php:181
+msgid "in "
+msgstr ""
+
+#: library/extensions/postformats-extensions.php:140
+#: library/extensions/postformats-extensions.php:175
+#: library/extensions/sliderpostformats-extensions.php:142
+#: library/extensions/sliderpostformats-extensions.php:186
+msgid "0 Comments"
+msgstr ""
+
+#: library/extensions/postformats-extensions.php:140
+#: library/extensions/postformats-extensions.php:175
+#: library/extensions/sliderpostformats-extensions.php:142
+#: library/extensions/sliderpostformats-extensions.php:186
+msgid "1 Comment"
+msgstr ""
+
+#: library/extensions/postformats-extensions.php:140
+#: library/extensions/postformats-extensions.php:175
+#: library/extensions/sliderpostformats-extensions.php:142
+#: library/extensions/sliderpostformats-extensions.php:186
+msgid "% Comments"
+msgstr ""
+
+#: library/extensions/postformats-extensions.php:307
+msgid "Open gallery --"
+msgstr ""
+
+#: library/extensions/postformats-extensions.php:751
+msgid "Your browser does not support the video tag"
+msgstr ""
+
+#: library/extensions/sliderpostformats-extensions.php:324
+msgid "Open Gallery"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:143
+msgid "Our Shop"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:147
+msgid "More Products"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:154
+#: library/extensions/st-home-posts-extentions.php:162
+msgid "Our Blog"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:156
+#: library/extensions/st-home-posts-extentions.php:164
+msgid "More Posts"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:184
+#: library/extensions/st-home-posts-extentions.php:196
+#: library/extensions/st-home-posts-extentions.php:275
+msgid " in "
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:264
+msgid "Leave a reply"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:264
+msgid "1 Reply"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:264
+msgid "% Replies"
+msgstr ""
+
+#: library/extensions/st-home-posts-extentions.php:271
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:59
+msgid "Search Forum"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:62
+msgid "Search Products"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:65
+msgid "Search"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:98
+msgid "Primary Aside"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:100
+msgid "The primary widget area, most often used as a sidebar."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:113
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:115
+msgid "The widget area displayed on the single post page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:128
+msgid "Page Sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:130
+msgid "The widget area displayed on the single page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:143
+msgid "Forum Sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:145
+msgid "The bottom widget area displayed on the forum page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:158
+msgid "Forum Header"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:160
+msgid "The widget area displayed on the top of the forum page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:173
+msgid "Single Insert"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:175
+msgid "The widget area inserted to the right of a single post page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:188
+msgid "Blog Sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:190
+msgid "The bottom widget area displayed on a blog template page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:203
+msgid "Page Inset"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:205
+msgid "The inset widget area displayed on a page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:218
+msgid "Archive Page Sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:220
+msgid "The archive widget area displayed on the archive template page."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:252
+msgid "WooCommerce Shop Page inset"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:254
+msgid "The Woocommerce Shop page inset area."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:267
+msgid "WooCommerce sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:269
+msgid "The WooCommerce pages sidebar."
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:282
+msgid "Restaurants lists sidebar"
+msgstr ""
+
+#: library/extensions/widgets-extensions.php:284
+msgid "Sidebar for Restaurants loops."
+msgstr ""
+
+#: library/metaboxes/frozr_audio_thumb.php:78
+msgid "Frozr Audio Thumbnail "
+msgstr ""
+
+#: library/metaboxes/frozr_audio_thumb.php:145
+msgid ""
+"If you'd like to use an MP3/OGA-AGG audio track in the post thumbnail, "
+"upload or past your audio track URL below. Make sure you provide both .mp3 "
+"and .agg/.oga file formats in order for self hosted audio to function across "
+"all web browsers."
+msgstr ""
+
+#: library/metaboxes/frozr_audio_thumb.php:146
+msgid "MP3 URL"
+msgstr ""
+
+#: library/metaboxes/frozr_audio_thumb.php:148
+#: library/metaboxes/frozr_audio_thumb.php:153
+msgid "Upload"
+msgstr ""
+
+#: library/metaboxes/frozr_audio_thumb.php:151
+msgid "OGA URL"
+msgstr ""
+
+#: library/metaboxes/frozr_gallery_thumb.php:78
+msgid "Frozr Image Gallery Thumbnail "
+msgstr ""
+
+#: library/metaboxes/frozr_gallery_thumb.php:147
+#: library/metaboxes/frozr_gallery_thumb.php:159
+msgid "Delete image"
+msgstr ""
+
+#: library/metaboxes/frozr_gallery_thumb.php:147
+#: library/metaboxes/frozr_gallery_thumb.php:159
+msgid "Delete"
+msgstr ""
+
+#: library/metaboxes/frozr_gallery_thumb.php:159
+msgid "Add images"
+msgstr ""
+
+#: library/metaboxes/frozr_gallery_thumb.php:159
+msgid "Add to gallery"
+msgstr ""
+
+#: library/metaboxes/frozr_link_thumb.php:67
+msgid "Frozr Link Thumbnail "
+msgstr ""
+
+#: library/metaboxes/frozr_link_thumb.php:134
+msgid "Use this Metabox If you'd like to include a link in the post thumbnail."
+msgstr ""
+
+#: library/metaboxes/frozr_link_thumb.php:135
+msgid "Link Title"
+msgstr ""
+
+#: library/metaboxes/frozr_link_thumb.php:140
+msgid "Link URL"
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:78
+msgid "Frozr Video Thumbnail "
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:148
+msgid "Paste Video URL/Code"
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:149
+msgid ""
+"If you want to use an external video which might be on YouTube, vimeo or any "
+"other video sharing website that match the "
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:149
+msgid "WordPress Internal whitelist"
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:149
+msgid " past its URL or Embed code below."
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:150
+msgid "Paste the video URL here"
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:152
+msgid "Or Paste the video Embed code here"
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:156
+msgid "Or Upload Mp4 Video"
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:157
+msgid ""
+"If you have the video on your computer or in the WP media gallery, then use "
+"this option."
+msgstr ""
+
+#: library/metaboxes/frozr_media_embed.php:160
+msgid "Upload your Mp4"
+msgstr ""
+
+#: library/metaboxes/frozr_page_options.php:67
+msgid "Frozr pages meta options"
+msgstr ""
+
+#: library/metaboxes/frozr_page_options.php:154
+msgid "Show page thumbnail"
+msgstr ""
+
+#: library/metaboxes/frozr_page_options.php:158
+msgid "Show sub-pages"
+msgstr ""
+
+#: library/metaboxes/frozr_page_options.php:162
+msgid "Show pages tags. (if using a page tags plugin)"
+msgstr ""
+
+#: library/metaboxes/frozr_page_options.php:166
+msgid "Show page share socials"
+msgstr ""
+
+#: library/metaboxes/frozr_quick_links.php:66
+msgid "Frozr Content Quick Links"
+msgstr ""
+
+#: library/metaboxes/frozr_quick_links.php:135
+msgid "Use quick links for this post?"
+msgstr ""
+
+#: library/metaboxes/frozr_quick_links.php:136
+msgid ""
+"Quick links let you easily navigate through post/page content using main "
+"headlines."
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:67
+msgid "Frozr post meta options"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:174
+msgid "Show Category"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:178
+msgid "Show Bookmark link"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:182
+msgid "Show post tags"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:186
+msgid "Show post author"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:190
+msgid "Show post date"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:194
+msgid "Show post archive"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:198
+msgid "Show comments count"
+msgstr ""
+
+#: library/metaboxes/frozr_single_options.php:202
+msgid "Show post share"
+msgstr ""
+
+#: library/templates/forum-page-template.php:120
+msgid "Forums Statistics"
+msgstr ""
+
+#: library/templates/forum-page-template.php:127
+msgid "Users"
+msgstr ""
+
+#: library/templates/forum-page-template.php:151
+msgid "Topic Tags"
+msgstr ""
+
+#: library/templates/forum-page-template.php:158
+msgid "Empty Tags"
+msgstr ""
+
+#: library/templates/forum-page-template.php:166
+msgid "Hidden Replies"
+msgstr ""
+
+#: library/templates/forum-page-template.php:349
+msgid "Active Members"
+msgstr ""
+
+#: page.php:73 template-page-fullwidth.php:60
+msgid "Page Tags "
+msgstr ""
+
+#: page.php:73
+msgid "Children Pages"
+msgstr ""
+
+#: template-page-fullwidth.php:56
+msgid "Sub-Pages"
+msgstr ""
+
+#: woocommerce/archive-product.php:39
+msgid "Sort Products"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+msgid "Restaurant"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Items"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Delivery"
+msgstr ""
+
+#: woocommerce/cart/cart.php:67
+msgid "Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:68 woocommerce/cart/cart.php:190
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:69 woocommerce/cart/cart.php:191
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70 woocommerce/cart/cart.php:192
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:99 woocommerce/cart/cart.php:212
+#: woocommerce/cart/mini-cart.php:41
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:170
+msgid "Free Delivery"
+msgstr ""
+
+#: woocommerce/cart/cart.php:174
+msgid "No delivery items found."
+msgstr ""
+
+#: woocommerce/cart/cart.php:189
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:290
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:24
+msgid "Item/s"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:24
+msgid "Qty x Price"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:27
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:62
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:68
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+msgid "No Products yet,"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+msgid " Shop Now!"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:34
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""

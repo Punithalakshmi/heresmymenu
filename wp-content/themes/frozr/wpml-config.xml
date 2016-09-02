@@ -1,0 +1,7 @@
+﻿<wpml-config>
+    <admin-texts>
+        <key name="frozr_theme_opt">
+            <key name="footer_txt" />
+        </key>
+    </admin-texts>    
+</wpml-config>

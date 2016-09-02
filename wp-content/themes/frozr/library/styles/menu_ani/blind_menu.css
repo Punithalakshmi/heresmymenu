@@ -1,0 +1,15 @@
+/*
+* Menu Animations
+* 
+* @package Forzr
+* @subpackage CSS
+*
+*/
+
+.fr-menu li:hover > ul > li , .fr-menu li:focus > ul > li{
+  /* This should be changed to the normal height of list-items */
+  max-height: 100px;
+}
+.fr-menu ul li {
+  max-height: 0;
+}

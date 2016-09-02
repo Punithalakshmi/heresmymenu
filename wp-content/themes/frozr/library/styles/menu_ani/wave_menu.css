@@ -1,0 +1,28 @@
+/*
+* Menu Animations
+* 
+* @package Forzr
+* @subpackage CSS
+*
+*/
+.fr-menu li {
+  -webkit-transform-origin: 0% 0%;
+     -moz-transform-origin: 0% 0%;
+      -ms-transform-origin: 0% 0%;
+       -o-transform-origin: 0% 0%;
+          transform-origin: 0% 0%;
+}
+.fr-menu ul li{
+  -webkit-transform: skewY(-90deg);
+     -moz-transform: skewY(-90deg);
+      -ms-transform: skewY(-90deg);
+       -o-transform: skewY(-90deg);
+          transform: skewY(-90deg);
+}
+.fr-menu li:hover > ul > li , .fr-menu li:focus > ul > li{
+  -webkit-transform: skewY(0deg);
+     -moz-transform: skewY(0deg);
+      -ms-transform: skewY(0deg);
+       -o-transform: skewY(0deg);
+          transform: skewY(0deg);
+}

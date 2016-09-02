@@ -1,0 +1,1 @@
+/** * Scripts for the frozr products archives  * * @package Frozr * @subpackage FrozrScript */	jQuery.noConflict();	jQuery(document).ready(function(){	});

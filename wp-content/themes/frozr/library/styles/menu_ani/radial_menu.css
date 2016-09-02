@@ -1,0 +1,27 @@
+/*
+* Menu Animations
+* 
+* @package Forzr
+* @subpackage CSS
+*
+*/
+.fr-menu ul li{
+  -webkit-transform: translateY(-80px) rotate(70deg);
+     -moz-transform: translateY(-80px) rotate(70deg);
+      -ms-transform: translateY(-80px) rotate(70deg);
+       -o-transform: translateY(-80px) rotate(70deg);
+          transform: translateY(-80px) rotate(70deg);
+
+  -webkit-transform-origin: 0 0;
+     -moz-transform-origin: 0 0;
+      -ms-transform-origin: 0 0;
+       -o-transform-origin: 0 0;
+          transform-origin: 0 0;
+}
+.fr-menu li:hover > ul > li , .fr-menu li:focus > ul > li{
+  -webkit-transform: translateY(0) rotate(0deg);
+     -moz-transform: translateY(0) rotate(0deg);
+      -ms-transform: translateY(0) rotate(0deg);
+       -o-transform: translateY(0) rotate(0deg);
+          transform: translateY(0) rotate(0deg);
+}

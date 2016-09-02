@@ -1,0 +1,79 @@
+﻿.wpwhosonline-list {
+	list-style: none !important;
+	margin: 0 auto !important;
+	padding: 0 0 20px !important;
+	width: 95%;
+}
+.wpwhosonline-row {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 5px;
+}
+.wo_user_link_green {
+    color: lightgreen;
+    font-weight: bold;
+}
+.wo_user_normal {
+    border-radius: 50% 50% 50% 50%;
+    height: 40px;
+    width: 40px;
+}
+.wo_user_link_avatar {
+    display: table;
+    height: 40px;
+    width: 40px;
+    }
+.wo_user_green {
+    border-radius: 50% 50% 50% 50%;
+
+}
+.whos-online {
+    border: 1px solid #ddd;
+    margin: 0 auto 30px;
+box-shadow:0 2px 4px rgba(0, 0, 0, 0.1);
+-moz-box-shadow:0 2px 4px rgba(0, 0, 0, 0.1);
+-webkit-box-shadow:0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 94px 0 0;
+    position: relative;
+}
+.online-users:after {
+    border-right: 13px solid transparent;
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 49px;
+}
+.online-users:before {
+    border-left: 12px solid transparent;
+    content: "";
+    left: 0;
+    position: absolute;
+    top: 49px;
+}
+.online-users {
+    display: block;
+    left: -14px;
+    padding: 0;
+    position: absolute;
+    top: 18px;
+    width: 102.5%;
+}
+.o-u-t {
+    display: block;
+    font-weight: bold;
+    margin-top: 14px;
+    overflow: hidden;
+    width: 80%;
+}
+.online-users-icon {
+    height: 48px;
+    margin: 0 20px;
+    width: 4%;
+	color:rgba(0,0,0,0.5);
+}
+span.online-users-icon i {
+  line-height: 3.2em !important;
+  text-align: center;
+  width: 100%;
+  display: block;
+}
